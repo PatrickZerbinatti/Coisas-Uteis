@@ -1,0 +1,4 @@
+distinct em uma coluna
+https://dba.stackexchange.com/questions/24327/how-to-select-distinct-for-one-column-and-any-in-another-column
+
+
